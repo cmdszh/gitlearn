@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 test git stage
 git tracks changes of files.
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+Createing a new branch is quick and simple.
